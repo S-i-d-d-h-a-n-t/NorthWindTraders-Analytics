@@ -87,3 +87,6 @@ Instructions on how to connect to the Northwind database and load the data. This
 
 Run the analysis scripts:
 Instructions on how to execute your analysis scripts, e.g., a Python script or a series of SQL queries.
+
+## Project Video Link- 
+https://www.youtube.com/watch?v=-0qrtgL1QMY
